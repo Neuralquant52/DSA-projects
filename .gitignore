@@ -3,3 +3,4 @@ maze/dfs
 maze/bfs
 benchmarks/benchmark
 tests/test
+kdTrees/2D/Tests/test
